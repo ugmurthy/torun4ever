@@ -1,3 +1,4 @@
+
 Awake is a Nuxt.js template for generating a beautifully robust static site with blog. 
 
 # Features
